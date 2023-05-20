@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+  }
+  .userCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+    border-radius: 10px;
+  }
+  #profession {
+    border: 1px solid white;
+    padding: 8px;
+    width: 9%;
+  }
+  button {
+    border: 1px solid white;
+    padding: 6px;
+    width: 10%;
+    color: black;
+    background-color: white;
+    margin: 10px;
+  }
+  input {
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 6px;
+  }
